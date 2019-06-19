@@ -6,3 +6,5 @@ Go to https://takeout.google.com. Only select the location history as json, down
 Based on the hardware and size of the file, it would take a few seconds to compute and will give the result.
 
 Sample output can be found here ![Screenshot](Output.png)
+
+Added maps (using folium) which are saved to a file aned travels.html in the same directory
