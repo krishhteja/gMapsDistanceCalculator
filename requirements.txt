@@ -71,7 +71,7 @@ PyQt5==5.11.3
 PyQt5-sip==4.19.13
 python-dateutil==2.7.5
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.2
 ratelim==0.1.6
 requests==2.20.1
