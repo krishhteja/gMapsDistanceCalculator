@@ -52,7 +52,7 @@ matplotlib==3.0.2
 mechanize==0.4.0
 nbformat==4.4.0
 ndg-httpsclient==0.5.1
-numpy==1.16.0
+numpy==1.22.0
 oauthlib==2.1.0
 opencv-python==4.0.0.21
 pexpect==4.6.0
